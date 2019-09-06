@@ -12,3 +12,7 @@ raiz = sqrt(num)
 print('A rapuz de {} é igual a {:.2f}'.format(num, raiz))
 print('A raíz de {} é igual a {}'.format(num, ceil(raiz)))  # arredonda pra cima
 print('A raíz de {} é igual a {}'.format(num, floor(raiz)))  # a rrendonda para baixo
+
+# import emoji
+
+# print(emoji.emojize("Olá, mundo! :earth_americas:", use_aliases=True))
